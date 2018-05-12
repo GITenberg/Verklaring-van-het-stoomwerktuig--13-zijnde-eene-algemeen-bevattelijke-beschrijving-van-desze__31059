@@ -10,6 +10,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31059#Verklaring-van-het-stoomwerktuig--13-zijnde-eene-algemeen-bevattelijke-beschrijving-van-desze_
 gutenberg_issued: '2010-01-24'
 gutenberg_type: Text
 identifiers:
